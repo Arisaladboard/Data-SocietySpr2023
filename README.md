@@ -6,6 +6,8 @@
 
 Our data is from the Homeowner Assistance Fund. It targets the county level. Here is the link to the original dataset: https://datacatalog.urban.org/dataset/homeowner-assistance-fund-county-level-targeting-data 
 
+Here is the link to the html file: file:///Users/arisalehpour/Downloads/Final%20Report%20Outline%20(1)/FinalReportOutline.html
+
 
 Our dataset contains data on:
 Homeowners’ demographic
