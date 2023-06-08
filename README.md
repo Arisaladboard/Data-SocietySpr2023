@@ -35,3 +35,7 @@ Mortgage Share: Total mortgages / Total homeowners
 Cost Burdened: Spending 30% or more of annual income on housing costs.
 
 Severely Cost Burdened: Spending 50% or more of annual income on housing costs.
+
+
+![image](https://github.com/Arisaladboard/Data-SocietySpr2023/assets/129342259/d30008bc-80b5-4dd6-a8e2-4e26ca4ef388)
+
